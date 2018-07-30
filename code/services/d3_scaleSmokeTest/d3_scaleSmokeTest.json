@@ -1,0 +1,12 @@
+{
+    "current_version": 1,
+    "dependencies": "log,d3_scale",
+    "logging_enabled": "false",
+    "name": "d3_scaleSmokeTest",
+    "params": [],
+    "permissions": {
+        "Authenticated": 1
+    },
+    "run_user": "",
+    "source": "d3_scaleSmokeTest.js"
+}
